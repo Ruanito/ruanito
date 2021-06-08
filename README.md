@@ -4,6 +4,9 @@
 
 [LikedIn](https://www.linkedin.com/in/ruanito-santos-7b610039/?locale=en_US)
 
+The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures.
+> Robert C. Martin  
+
 
 <!--
 **Ruanito/ruanito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
