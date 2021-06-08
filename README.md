@@ -1,4 +1,9 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Ruanito!
+
+💻 Software Engineer at [Abbiamo](https://www.abbiamolog.com)
+
+[LikedIn](https://www.linkedin.com/in/ruanito-santos-7b610039/?locale=en_US)
+
 
 <!--
 **Ruanito/ruanito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
