@@ -20,7 +20,7 @@ I am a BackEnd engineer from Brazil
 
 - 🔭: I'm working as a Software Engineer for building financial applications.
 - ⚡: In my free time, I like to learn new programming languages
-- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruanito/)
+- 📫: How to reach me: [LinkedIn](https://www.linkedin.com/in/ruanito/)
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Ruanito!
 
