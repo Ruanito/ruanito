@@ -1,6 +1,8 @@
+<!--
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp6OGY2eW1zMG14YWJrYnZhaDA4ZmVxamFwaWtvazV6Y2gzZjg5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="100"/>
 </div>
+-->
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ruanito">
