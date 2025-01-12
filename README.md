@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Ruanito!
 
-💻 Software Engineer at [Paybrokers]([https://paybrokers.com.br])
+💻 Software Engineer at [Paybrokers](https://paybrokers.com.br)
 
 [LikedIn](https://www.linkedin.com/in/ruanito)
 
