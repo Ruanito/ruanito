@@ -4,14 +4,14 @@
 </div>
 -->
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHMxbXY4cGZmeW1hcjBkYXgybmQ2Y2t3NTI4YXZ1dG1jeGF5OXVlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kluzPOxBzGk4U/giphy.gif" height="300"/>
+</div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ruanito">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHMxbXY4cGZmeW1hcjBkYXgybmQ2Y2t3NTI4YXZ1dG1jeGF5OXVlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kluzPOxBzGk4U/giphy.gif" height="300"/>
 </div>
 
 ---
