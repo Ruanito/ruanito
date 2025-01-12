@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Nvc2hkbXF3dGM2czV2bGdndWN0empkNTF5azRyYnR5YmtlYjk3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100"/>
+</div>
+
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Ruanito!
 
 💻 Software Engineer at [Paybrokers](https://paybrokers.com.br)
