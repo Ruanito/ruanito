@@ -39,14 +39,13 @@ I am a BackEnd engineer from Brazil
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Ruanito!
+---
 
-💻 Software Engineer at [Paybrokers](https://paybrokers.com.br)
+### 🔥 My Stats
 
-[LikedIn](https://www.linkedin.com/in/ruanito)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruanito&theme=dark&background=000000)](https://git.io/streak-stats)
 
-The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures.
-> Robert C. Martin  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanito&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
