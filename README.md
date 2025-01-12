@@ -12,6 +12,16 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHMxbXY4cGZmeW1hcjBkYXgybmQ2Y2t3NTI4YXZ1dG1jeGF5OXVlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kluzPOxBzGk4U/giphy.gif" height="300"/>
 </div>
 
+---
+
+### About Me :
+
+I am a BackEnd engineer from Brazil
+
+- 🔭: I'm working as a Software Engineer for building financial applications.
+- ⚡: In my free time, I like to learn new programming languages
+- 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ruanito/)
+
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Ruanito!
 
 💻 Software Engineer at [Paybrokers](https://paybrokers.com.br)
