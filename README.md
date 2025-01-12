@@ -1,8 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Ruanito!
 
-💻 Software Engineer at [Decisiv](https://www.decisiv.com/)
+💻 Software Engineer at [Paybrokers]([https://www.decisiv.com/](https://paybrokers.com.br/))
 
-[LikedIn](https://www.linkedin.com/in/ruanito-santos-7b610039/?locale=en_US)
+[LikedIn](https://www.linkedin.com/in/ruanito)
 
 The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures.
 > Robert C. Martin  
