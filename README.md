@@ -1,11 +1,15 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Nvc2hkbXF3dGM2czV2bGdndWN0empkNTF5azRyYnR5YmtlYjk3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp6OGY2eW1zMG14YWJrYnZhaDA4ZmVxamFwaWtvazV6Y2gzZjg5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ruanito">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZsOWNqeDZ0bTE2YzE5ZGF3NndwcmU0eng5ZmVmeW01bXo3eW5ucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif" width="600" height="300"/>
 </div>
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Ruanito!
