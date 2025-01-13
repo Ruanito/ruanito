@@ -20,7 +20,7 @@
 
 I am a BackEnd engineer from Brazil
 
-- 🔭 I'm working as a Software Engineer for building financial applications.
+- 🔭 I'm working as a Software Engineer and building financial applications.
 - ⚡ In my free time, I like to learn new programming languages
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ruanito/)
 
